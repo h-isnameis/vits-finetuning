@@ -105,4 +105,3 @@ wav/ba/mari/Mari_Relationship_Up_1.wav|10|なんだか、心が安らぐよう�
 wav/ba/mari/Mari_Relationship_Up_2.wav|10|先生、私、先生のことを心から尊敬しております。
 wav/ba/mari/Mari_Relationship_Up_3.wav|10|愛とは崇高なもの。ですが…困りましたね。
 wav/ba/mari/Mari_Relationship_Up_4.wav|10|どうしましょう……。この気持ちは……。
-
