@@ -1,0 +1,12 @@
+wav/ba/mari/Mari_Season_Birthday.wav|10|お誕生日にこうして、先生と一緒にいられるだなんて……。幸せ過ぎてなんだか、あとで罰が下ってしまわないか心配です。
+wav/ba/mari/Mari_Season_Birthday_Player.wav|10|今日この日に先生が生を受けたからこそ、私たちはこうして出会うことができました。今日という日に、心からの感謝を。
+wav/ba/mari/Mari_Season_Halloween.wav|10|飴さん……あ、いえ、大丈夫です。シスターとして節制は大切ですので。
+wav/ba/mari/Mari_Season_NewYear.wav|10|あけましておめでとうございます。今年はどんな素敵なことが待っているのか……。今から楽しみですね。
+wav/ba/mari/Mari_Season_Xmas.wav|10|今日は、偉大なる方の降誕祭……。敬虔に、この聖なる一日を過ごすとしましょう。
+wav/ba/mari/CH0186_Season_Birthday_Player.wav|10|お誕生日おめでとうございます、先生。何か欲しいものはありますか？
+wav/ba/mari/CH0186_Season_Halloween.wav|10|賑やかな日ですね。なんだか私まで楽しくなってきます。
+wav/ba/mari/CH0186_Season_NewYear.wav|10|明けましておめでとうございます、先生。今年も……一緒に運動なんていかがでしょうか？
+wav/ba/mari/CH0186_Season_Xmas.wav|10|聖なる夜ですね。よろしければ、一緒にお祈りを捧げませんか？
+wav/ba/mari/CH0186_EventLobby_1.wav|10|何かお手伝いできる事はありますか？
+wav/ba/mari/CH0186_EventLobby_2.wav|10|……先生？どうかしましたか……？
+wav/ba/mari/CH0186_EventLobby_3.wav|10|そ、そんな風に何度も呼ばれると……恥ずかしいです……。
