@@ -1,0 +1,3 @@
+wav/ba/mari/Mari_ExSkill_Level_3.wav|10|すべてのかたに、ご加護を！
+wav/ba/mari/CH0186_EventLobby_3.wav|10|そ、そんなふうに何度も呼ばれると……恥ずかしいです……。
+wav/ba/mari/Mari_Season_Xmas.wav|10|今日は、偉大なるかたの降誕祭……。敬虔に、この聖なる一日を過ごすとしましょう。

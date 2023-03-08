@@ -1,0 +1,5 @@
+wav/ba/mari/CH0186_Cafe_monolog_2.wav|10|手助けが必要なかたは……いらっしゃるでしょうか？
+wav/ba/mari/CH0186_EventLogin_Season_End.wav|10|先生、お疲れ様でした。まだ助けが必要なかたがいらっしゃるかもしれませんので、もうちょっと見て回りましょう。
+wav/ba/mari/Mari_ExSkill_Level_1.wav|10|すべてのかたに、祝福を！
+wav/ba/mari/Mari_ExSkill_Level_2.wav|10|すべてのかたに、救いを！
+wav/ba/mari/CH0186_Gachaget.wav|10|健全な精神を育成するべく肉体を育む……そのゆく道にご加護があらんことを。
